@@ -1,4 +1,4 @@
-This is a copy of the chicago branch of https://github.com/lucas-schirbel/coulomb_stresses/ (as of 2026 Jan 13). It was created to generate a Zenodo link. Please see the chicago branch of https://github.com/lucas-schirbel/coulomb_stresses/ for any updates since Jan 13, 2026. 
+This is a copy of the chicago branch of https://github.com/lucas-schirbel/coulomb_stresses/, created on Jan 13, 2026. It was created to generate a Zenodo link. Please see the chicago branch of https://github.com/lucas-schirbel/coulomb_stresses/ for any updates since Jan 13, 2026. 
 
 # Static Stress Perturbations from Mass Unloading
 
